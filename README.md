@@ -14,3 +14,6 @@ Demographic Panel: The demographic panel displays metadata information related t
 Bar Chart: The bar chart represents the top 10 operational taxonomic units (OTUs) and their corresponding sample values.
 Bubble Chart: The bubble chart displays the distribution of OTUs based on their IDs and sample values.
 Gauge Chart: The gauge chart visualizes the belly button washing frequency, represented as the number of scrubs per week.
+
+Support:
+I received support from chatGPT to help me debug and create code. 
